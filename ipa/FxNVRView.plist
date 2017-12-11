@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://dqnetworks.github.io/ipa/FxNVRView_20171211002.ipa</string>
+					<string>https://dqnetworks.github.io/ipa/FxNVRView_20171211003.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,7 +19,7 @@
 				<key>bundle-identifier</key>
 				<string>test.fxnvrviwer.suho.ios</string>
 				<key>bundle-version</key>
-				<string>0.9.8</string>
+				<string>0.9.9</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
